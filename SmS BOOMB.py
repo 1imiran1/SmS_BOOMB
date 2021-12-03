@@ -8,7 +8,7 @@ urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 
 
 
-mydata = {"cellphone":"0"+phnenum}
+mydata = {"cellphone":""+phnenum}
 
 
 
